@@ -1,0 +1,7 @@
+name: SimpleTeles
+version: '${project.version}'
+main: simpleteles.simpleteles.SimpleTeles
+api-version: 1.19
+authors: [ Miguel Lopes Braido ]
+description: A simple teleporter
+website: https://miguelb.dev/simple/teles
